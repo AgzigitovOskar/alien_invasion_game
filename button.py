@@ -2,6 +2,7 @@ import pygame.font
 
 
 class Button():
+
     def __init__(self, ai_game, msg):
         """Инициализирует атрибуты кнопки."""
         self.screen = ai_game.screen
@@ -18,7 +19,7 @@ class Button():
         self.rect.center = self.screen_rect.center
 
         # Сообщение кнопки создается только один раз.
-        self.prep_msg(msg)
+        self._prep_msg(msg)
 
     def _prep_msg(self, msg):
         """Преобразует msg в прямоугольник и выравнивает текст по центру."""
