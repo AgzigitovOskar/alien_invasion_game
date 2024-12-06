@@ -25,7 +25,7 @@ class Scoreboard():
 
         # Вывод счета в правой, верхней части экрана.
         self.score_rect = self.score_image.get_rect()
-        self.score_rect.right = self.score_rect.right - 20
+        self.score_rect.right = self.score_rect.right - (-1350)
         self.score_rect.top = 20
 
     def show_score(self):
