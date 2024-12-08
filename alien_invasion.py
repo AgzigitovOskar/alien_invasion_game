@@ -188,6 +188,10 @@ class AlienInvasion:
             self._create_fleet()
             self.settings.increase_speed()
 
+            # Увеличение уровня.
+            self.stats.level += 1
+            self.sb.prep_level()
+
     def _ship_hit(self):
         """Обрабатывает столкновение корабля с пришельцем."""
         if self.stats.ships_left > 0:
