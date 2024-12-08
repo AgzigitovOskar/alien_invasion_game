@@ -15,7 +15,7 @@ pip install --upgrade pip
 
 pip install -r requirements.txt
 
+![2024-12-08 19 11 30](https://github.com/user-attachments/assets/b46be149-0ecd-421f-8bcf-157f05aff419)
 
-![Снимок экрана 2024-12-08 в 17.19.01.png](../../Desktop/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-08%20%D0%B2%2017.19.01.png)
+![2024-12-08 19 11 26](https://github.com/user-attachments/assets/29d70be5-b6ea-43f2-9753-9d835bfa563b)
 
-![Снимок экрана 2024-12-08 в 17.18.47.png](../../Desktop/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-08%20%D0%B2%2017.18.47.png)
